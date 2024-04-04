@@ -1,4 +1,4 @@
-import React, { ComponentProps } from "react"
+import { ComponentProps } from "react"
 import { twMerge } from "tailwind-merge"
 
 interface IconButtonProps extends ComponentProps<"button"> {
