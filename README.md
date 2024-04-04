@@ -24,4 +24,4 @@ O aplicativo trata-se de uma aplicação para gestão de participantes de evento
 - Tailwind
 
 ## Links
-URL do site ao vivo: https://christiancordeiro.github.io/nlw-unite/
+URL do site ao vivo: https://nlw-unite-nine.vercel.app
