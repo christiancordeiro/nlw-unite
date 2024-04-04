@@ -27,7 +27,7 @@ O aplicativo trata-se de uma aplicação para gestão de participantes de evento
 
 Para utilizar a aplicação, siga os passos abaixo:
 
-### Configuração do Ambiente de Desenvolvimento
+### Configuração do Ambiente de Desenvolvimento para rodar o backend localmente
 
 1. **Baixar as Dependências**
 
